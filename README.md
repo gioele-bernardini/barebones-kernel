@@ -1,1 +1,1 @@
-# A kernel from scratch made in C
+#Barebones Kernel in C: Building an Operating System from Scratch
