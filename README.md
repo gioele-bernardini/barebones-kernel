@@ -1,1 +1,1 @@
-#Barebones Kernel in C: Building an Operating System from Scratch
+# Barebones Kernel in C: Building an Operating System from Scratch
